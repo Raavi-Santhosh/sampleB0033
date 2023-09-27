@@ -1,0 +1,23 @@
+/* .list{
+      list-style-type: decimal | decimal-leading-zero | upper-alpha | lower-alpha | upper-roman | lower-roman | lower-greek | disc | square | circle;  
+} */
+
+table,tr td{
+        border: 1px solid black;
+
+        border-collapse: collapse;
+
+        text-align: left | right | center | justify;
+}
+
+
+box-model
+position
+overflow
+
+ADVANCE
+gradients
+Animation
+Shadows
+Filters
+Flex box
